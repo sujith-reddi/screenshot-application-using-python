@@ -19,4 +19,4 @@ PyAutoGUI has several features:
 
 You can find more about on [PyAutoGui](https://pyautogui.readthedocs.io/en/latest/)
 
-**We accept Pull Requests! If you have a update or shortcut you think is useful and should be added, contribute to our repo on [GitHub](https://github.com/sujith45/screenshot-application-using-python/)!**
+**We accept Pull Requests! If you have a update or shortcut you think is useful and should be added, contribute to our repo on [GitHub](https://github.com/sujith-reddi/screenshot-application-using-python/)!**
